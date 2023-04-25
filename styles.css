@@ -2,5 +2,5 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: rgba(6, 95, 117, 0.582);
+  background-image: url(/jGlzr.png) ;
 }
